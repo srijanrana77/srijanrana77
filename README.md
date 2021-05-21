@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=srijanrana77" alt="srijanrana77" /></a> </p>
 
-- 🔭 I’m currently working on **Food Delievery Project**
+- 🔭 I’m currently working on **E-Commerce Website**
 
 - 🌱 I’m currently learning **BackEnd, Database**
 

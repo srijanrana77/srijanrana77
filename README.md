@@ -9,7 +9,6 @@
 
 - 🌱 I’m currently learning **BackEnd, Database**
 
-- 👯 I’m looking to collaborate on **Anything**
 
 - 💬 Ask me about **Just Shoot**
 
